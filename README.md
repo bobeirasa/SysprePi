@@ -13,3 +13,5 @@ For the boot options (1 and 2), the code relies on <code>/etc/rc.local</code>, s
 # Serial Number Label Printing
 
 Printer model: https://www.amazon.com/gp/product/B00JHME7W4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
+
+I'm still waiting for my printer to arrive to start development on that.
