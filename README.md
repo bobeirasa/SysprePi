@@ -1,3 +1,5 @@
+![SysprePi Logo](https://github.com/bobeirasa/SysprePi/blob/master/images/SysprePi-Logo_340x.png?raw=true)
+
 # About
 
 SysprePi is a suita than can run on Raspberry Pi devices running Raspbian. It allows the device to self-configure on boot. There are basically 2 ways of doing stuff:
