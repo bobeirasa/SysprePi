@@ -1,4 +1,4 @@
-=== About ===
+# About
 
 SysprePi is a suita than can run on Raspberry Pi devices running Raspbian. It allows the device to self-configure on boot. There are basically 2 ways of doing stuff:
 
@@ -10,6 +10,6 @@ SysprePi is a suita than can run on Raspberry Pi devices running Raspbian. It al
 
 For the boot options (1 and 2), the code relies on <code>/etc/rc.local</code>, so for convenience I placed that file in the repo, where you can symlink to your <code>/etc/rc.local</code> on Raspbian.
 
-=== Serial Number Label Printing ===
+# Serial Number Label Printing
 
 Printer model: https://www.amazon.com/gp/product/B00JHME7W4/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
