@@ -17,6 +17,6 @@ if [ "$_IP" ]; then
   printf "My IP address is %s\n" "$_IP"
 fi
 
-/home/pi/raspi-tools/pi-bootstrapper/bootstrap.sh >> /tmp/rclocal
+/home/pi/SysprePi/pi-bootstrapper/bootstrap.sh >> /tmp/rclocal
 
 exit 0
