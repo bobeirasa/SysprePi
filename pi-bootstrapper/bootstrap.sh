@@ -4,5 +4,6 @@
 
 /home/pi/SysprePi/pi-bootstrapper/sethostname.sh
 > /home/pi/.bash_history
+> /home/pi/.gitconfig
 [ -f /home/pi/SysprePi/ip-reporter/wifiip.txt ] && rm /home/pi/SysprePi/ip-reporter/wifiip.txt
 su - pi -c "/home/pi/SysprePi/ip-reporter/ipupdater.sh"
